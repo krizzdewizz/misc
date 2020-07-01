@@ -1,0 +1,60 @@
+@import "../colors";
+
+.toast-container .ngx-toastr {
+  border-radius: 0;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-bottom: 0;
+  min-height: 58px;
+  height: 58px;
+  max-height: 58px;
+
+  &::before {
+    width: 25px;
+    margin-right: 10px;
+    min-width: 25px;
+  }
+
+  .toast-progress {
+    margin-left: 30px;
+    opacity: 0.2;
+    height: 3px;
+  }
+
+  .toast-message {
+    flex: 1;
+    padding: 0 !important;
+    margin-top: -5px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .ms-toast-button {
+    background: none;
+    outline: none;
+    margin-right: 5px;
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+
+  &.toast-success .ms-toast-button {
+    color: $ok-d1;
+  }
+
+  &.toast-info .ms-toast-button {
+    color: $info-d1;
+  }
+
+  &.toast-warning .ms-toast-button {
+    color: $warning-d1;
+  }
+
+  &.toast-error .ms-toast-button {
+    color: $alert-d1;
+  }
+}
