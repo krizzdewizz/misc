@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1593649229263,
+  "timestamp": 1593650047334,
   "index": "/misc/qr-scan-mobile/index.html",
   "assetGroups": [
     {
@@ -9,8 +9,8 @@
       "updateMode": "prefetch",
       "urls": [
         "/misc/qr-scan-mobile/index.html",
-        "/misc/qr-scan-mobile/main-es2015.ec8f1f377b58c9c0b1d2.js",
-        "/misc/qr-scan-mobile/main-es5.ec8f1f377b58c9c0b1d2.js",
+        "/misc/qr-scan-mobile/main-es2015.19003aa0e380b0eb98ea.js",
+        "/misc/qr-scan-mobile/main-es5.19003aa0e380b0eb98ea.js",
         "/misc/qr-scan-mobile/manifest.webmanifest",
         "/misc/qr-scan-mobile/polyfills-es2015.3a77ebbd508e8ce6d2c8.js",
         "/misc/qr-scan-mobile/polyfills-es5.f8ac05c7f0c68766fbb2.js",
@@ -72,11 +72,11 @@
     "/misc/qr-scan-mobile/biskicon.df6ebe3828f3d16f557e.woff": "9ace03729e9badd204952bb7cf0f3d92b12a4d78",
     "/misc/qr-scan-mobile/bison-head.7ab0b65232f7893502c2.svg": "6e095ec823ce8a1964a7d5a12964e7d9af4d8027",
     "/misc/qr-scan-mobile/favicon.png": "45795d1569397fa3bde8912361ba15587c47cf6b",
-    "/misc/qr-scan-mobile/index.html": "7548fc039721a5cfb6333d6608ec6fc245587b79",
+    "/misc/qr-scan-mobile/index.html": "74537ef52f1c681b091e5f5afa0c305dc36e91dd",
     "/misc/qr-scan-mobile/logo-bison.a11fb337fa1c24f33644.svg": "89ff6b3a8b836accaa7dac1400d7a994d31c4a69",
-    "/misc/qr-scan-mobile/main-es2015.ec8f1f377b58c9c0b1d2.js": "ef2882873fa3452d8f76f8a3c7be4966b1269fc6",
-    "/misc/qr-scan-mobile/main-es5.ec8f1f377b58c9c0b1d2.js": "de7b1ab8591d4b5ca606a48ae9e75ecd0bc87070",
-    "/misc/qr-scan-mobile/manifest.webmanifest": "084c82a0c3f8d94a3c529bedaf7c1535d13f48bc",
+    "/misc/qr-scan-mobile/main-es2015.19003aa0e380b0eb98ea.js": "e335271a217f81b17276b76d1079c4dfd7842b29",
+    "/misc/qr-scan-mobile/main-es5.19003aa0e380b0eb98ea.js": "71de5700be4f41b6e994ffc13f72cb480b1a6819",
+    "/misc/qr-scan-mobile/manifest.webmanifest": "3683e3fa810f901590a2c6d76a46e36cb98ca86d",
     "/misc/qr-scan-mobile/polyfills-es2015.3a77ebbd508e8ce6d2c8.js": "c390c01ffbc2fe4ed798c2cdf9c887116ec0f6e1",
     "/misc/qr-scan-mobile/polyfills-es5.f8ac05c7f0c68766fbb2.js": "8c8aacf0c3b8feadfd1f52c2a87a27d974f45a6d",
     "/misc/qr-scan-mobile/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
