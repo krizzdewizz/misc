@@ -4,7 +4,7 @@
   "theme_color": "#4d3d47",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/q",
+  "scope": "https://krizzdewizz.github.io/misc/qr-scan-mobile",
   "start_url": "./",
   "icons": [
     {
