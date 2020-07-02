@@ -1,6 +1,6 @@
 {
-  "name": "QR Scan",
-  "short_name": "QR Scan",
+  "name": "QR Scan o3",
+  "short_name": "QR Scan o3",
   "theme_color": "#4d3d47",
   "background_color": "#fafafa",
   "display": "standalone",
