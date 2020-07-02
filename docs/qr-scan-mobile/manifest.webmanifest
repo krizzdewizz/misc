@@ -4,7 +4,7 @@
   "theme_color": "#4d3d47",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "https://krizzdewizz.github.io/",
+  "scope": "./",
   "start_url": "./",
   "icons": [
     {
